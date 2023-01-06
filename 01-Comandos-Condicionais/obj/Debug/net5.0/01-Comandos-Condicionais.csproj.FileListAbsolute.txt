@@ -1,0 +1,16 @@
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\01-Comandos-Condicionais.exe
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\01-Comandos-Condicionais.deps.json
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\01-Comandos-Condicionais.runtimeconfig.json
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\01-Comandos-Condicionais.runtimeconfig.dev.json
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\01-Comandos-Condicionais.dll
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\ref\01-Comandos-Condicionais.dll
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\bin\Debug\net5.0\01-Comandos-Condicionais.pdb
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.csproj.AssemblyReference.cache
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.AssemblyInfoInputs.cache
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.AssemblyInfo.cs
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.dll
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\ref\01-Comandos-Condicionais.dll
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.pdb
+C:\Users\no2321\Desktop\turmaNoite\Segunda-Solucao\01-Comandos-Condicionais\obj\Debug\net5.0\01-Comandos-Condicionais.genruntimeconfig.cache
